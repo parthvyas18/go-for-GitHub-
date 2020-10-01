@@ -1,2 +1,2 @@
 # go-for-GitHub-
-first repository
+first repository for hactoberfest
